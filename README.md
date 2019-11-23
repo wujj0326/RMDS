@@ -12,14 +12,14 @@ Python 3
 
 ### Installing Packages
 
-numpy
-pandas
-sklearn
-matplotlib
-seaborn
-xarray
-scipy
-imblearn
+numpy  
+pandas  
+sklearn  
+matplotlib  
+seaborn  
+xarray  
+scipy  
+imblearn  
 netcdf4
 
 ## Running the tests
@@ -35,9 +35,9 @@ After some presettings of the datasets, we are able to test the PSS scores on th
 
 ## Authors
 
-Eric Wu
-Vania Revelina
-Peng Zhangng
+Eric Wu  
+Vania Revelina  
+Peng Zhangng  
 Vincent Chen 
 
 ## License
