@@ -31,7 +31,7 @@ Predict the test data by using our best model - Random Forest.
 
 ### Break down into end to end tests
 
-After some presettings of the datasets, we are able to test the PSS scores on the different models. The highest PSS score we could get is 0.99, from the random forest model.
+After some presettings of the datasets, we are able to test the PSS scores on the different models. The highest PSS score we could get is around 0.7, from the random forest model.
 
 ## Authors
 
